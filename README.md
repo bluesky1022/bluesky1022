@@ -44,7 +44,7 @@
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Justin Nail&show_icons=true&theme=dracula&count_private=true)
 
 </div>
 
@@ -54,9 +54,9 @@
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| [**Awesome Portfolio**](https://github.com/yourusername/awesome-portfolio) | A sleek, responsive portfolio website showcasing my work and blog. | React, Tailwind CSS, Vercel |
-| [**Chatify**](https://github.com/yourusername/chatify) | Real-time chat application with WebSocket and rich media support. | Node.js, Socket.io, MongoDB |
-| [**DataViz Pro**](https://github.com/yourusername/dataviz-pro) | Interactive data visualization dashboard for business analytics. | D3.js, TypeScript, Express |
+| [**Awesome Portfolio**](https://github.com/bluesky1022/awesome-portfolio) | A sleek, responsive portfolio website showcasing my work and blog. | React, Tailwind CSS, Vercel |
+| [**Chatify**](https://github.com/bluesky1022/chatify) | Real-time chat application with WebSocket and rich media support. | Node.js, Socket.io, MongoDB |
+| [**DataViz Pro**](https://github.com/bluesky1022/dataviz-pro) | Interactive data visualization dashboard for business analytics. | D3.js, TypeScript, Express |
 
 ---
 
