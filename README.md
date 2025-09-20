@@ -1,44 +1,71 @@
-# 👋 Hello, I'm [Your Name]!
+<!--
+  Hi! This is a sample GitHub profile README with a creative, modern style.
+  Feel free to use it as inspiration or adapt it to your own style!
+-->
 
-Welcome to my GitHub profile! I'm a passionate [Your Role/Profession] based in [Your Location]. I love working on [mention your interests, e.g., web development, data science, etc.], and I'm always eager to learn new technologies and improve my skills.
+<div align="center">
+  <h1>Hey there, I'm <b>Justin Nail</b> 👋</h1>
+  
+  <p>
+    <em>Crafting code, building dreams, and exploring the digital universe 🌌</em>
+  </p>
 
-## 🌱 About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" alt="Coding Animation"/>
+</div>
 
-- 🔭 I’m currently working on [mention your current projects or areas of focus].
-- 🌱 I’m currently learning [mention any new technologies or skills you are learning].
-- 👯 I’m looking to collaborate on [mention any specific projects or topics you're interested in collaborating on].
-- 🤔 I’m looking for help with [mention any areas where you seek assistance or mentorship].
-- 💬 Ask me about [mention topics you’re knowledgeable about].
-- 📫 How to reach me: [your email or social media links].
-- ⚡ Fun fact: [share a fun fact about yourself].
+---
 
-## 🛠️ Technologies & Tools
+### 💡 About Me
 
-Here are some of the technologies and tools I work with:
+- 🔭 I’m currently working on **building scalable web apps** with React & Node.js
+- 🌱 I’m diving deep into **machine learning & AI**
+- 👯 I love collaborating on open-source projects that make an impact
+- ⚡ Fun fact: I play the guitar and love jazz 🎸🎶
+- 🧩 Always curious, always learning — today’s bug is tomorrow’s feature!
 
-- **Languages**: [e.g., JavaScript, Python, Java, etc.]
-- **Frameworks**: [e.g., React, Angular, Django, etc.]
-- **Databases**: [e.g., MySQL, MongoDB, PostgreSQL, etc.]
-- **Tools**: [e.g., Git, Docker, VS Code, etc.]
+---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
 
-## 🌟 Featured Projects
+---
 
-Here are some of my notable projects:
+### 📈 GitHub Stats
 
-1. **[Project Name 1](link-to-your-project)** - A brief description of what the project is about.
-2. **[Project Name 2](link-to-your-project)** - A brief description of what the project is about.
-3. **[Project Name 3](link-to-your-project)** - A brief description of what the project is about.
+<div align="center">
 
-## 📫 Connect with Me
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&count_private=true)
 
-Feel free to connect with me on:
+</div>
 
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Website/Blog](your-website-url)
+---
 
-Thanks for visiting my profile! 🌟
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| [**Awesome Portfolio**](https://github.com/yourusername/awesome-portfolio) | A sleek, responsive portfolio website showcasing my work and blog. | React, Tailwind CSS, Vercel |
+| [**Chatify**](https://github.com/yourusername/chatify) | Real-time chat application with WebSocket and rich media support. | Node.js, Socket.io, MongoDB |
+| [**DataViz Pro**](https://github.com/yourusername/dataviz-pro) | Interactive data visualization dashboard for business analytics. | D3.js, TypeScript, Express |
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
